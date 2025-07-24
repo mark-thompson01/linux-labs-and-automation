@@ -6,6 +6,16 @@ Each section below links to a live webpage that walks through concepts, tools, c
 
 ---
 
+## 📖 Table of Contents
+- [📚 Project Index](#project-index)
+- [🔁 How to Recreate These Labs](#-how-to-recreate-these-labs)
+- [🛠️ Tech Used](#-tech-used)
+- [🛡️ License](#-license)
+- [📁 More from Me](#more-from-me)
+
+
+---
+
 ## 📚 Project Index
 
 - 🔹 [Linux: An Introduction](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux%20An%20Introduction/)
