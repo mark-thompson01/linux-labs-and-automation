@@ -61,13 +61,6 @@ To follow along or recreate these projects:
 4. Use `crontab -e` to schedule Bash scripts
 5. Explore automation workflows for local backups or system monitoring
 
----
-
-## 📁 More from Me
-
-Visit my full GitHub Pages portfolio to explore additional projects:
-
-🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
 
 ---
 
@@ -80,6 +73,14 @@ Visit my full GitHub Pages portfolio to explore additional projects:
 - Gained hands-on experience with package management, system services, and process monitoring.
 - Strengthened my ability to build reproducible Linux labs and document them clearly.
 - Learned how to structure and publish educational content using GitHub Pages.
+
+---
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
 
 ---
 
