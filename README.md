@@ -18,7 +18,7 @@ Each section below links to a live webpage that walks through concepts, tools, c
 
 ## 📚 Project Index
 
-- 🔹 [Linux: An Introduction](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux%20An%20Introduction/)
+- 🔹 [Linux: An Introduction](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux/)
   - Overview of Linux, its history, kernel, distributions, and key system components.
 
 - 🔹 [Linux Basics & Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux%20Basics%20&%20Fundamentals/)
