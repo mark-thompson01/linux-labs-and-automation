@@ -60,6 +60,15 @@ Visit my full GitHub Pages portfolio to explore additional projects:
 🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
 
 
+---
+
+## 🛡️ License
+
+The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
+
+
+
 
 
 
