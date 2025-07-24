@@ -39,6 +39,8 @@ Each section below links to a live webpage that walks through concepts, tools, c
 
 This project showcases my ability to apply Linux knowledge in real-world scenarios using low-cost hardware, helping reinforce learning and build a practical foundation for system administration and scripting tasks.
 
+---
+
 ## 🔁 Recreating These Labs
 
 To follow along or recreate these projects:
@@ -48,6 +50,15 @@ To follow along or recreate these projects:
 3. Use terminal commands shown in each linked page
 4. Use `crontab -e` to schedule Bash scripts
 5. Explore automation workflows for local backups or system monitoring
+
+---
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
 
 
 
