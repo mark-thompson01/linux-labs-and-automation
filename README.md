@@ -69,6 +69,17 @@ Visit my full GitHub Pages portfolio to explore additional projects:
 
 🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
 
+---
+
+## 📘 What I’ve Learned
+
+- Refreshed and expanded on the fundamentals of Linux.
+- Practiced real-world use of the Linux command line on a Raspberry Pi 5.
+- Explored Bash Shell scripting fundamentals.
+- Created and scheduled Bash scripts using `cron` for hands-free task automation.
+- Gained hands-on experience with package management, system services, and process monitoring.
+- Strengthened my ability to build reproducible Linux labs and document them clearly.
+- Learned how to structure and publish educational content using GitHub Pages.
 
 ---
 
@@ -76,6 +87,7 @@ Visit my full GitHub Pages portfolio to explore additional projects:
 
 The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
+
 
 
 
