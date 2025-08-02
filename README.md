@@ -23,6 +23,9 @@ Each section below links to a live webpage that walks through concepts, tools, c
 
 - 🔹 [Linux Basics & Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux%20Basics%20&%20Fundamentals/)
   - File system hierarchy, package management, system services, processes, and logging.
+ 
+- 🔹 [Installing Linux Ubuntu on Oracle VirtualBox](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Installing%20Linux%20Ubuntu%20on%20Oracle%20VirtualBox/)
+  - Downloading Linux Ubuntu ISO image and installing it onto a VM in Oracle VirtualBox.
 
 - 🔹 [Linux Command Line](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Linux%20Command-Line/)
   - Demonstrates core Linux commands in the Bash shell using a Raspberry Pi 5 with screenshots and examples.
